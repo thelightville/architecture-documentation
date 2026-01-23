@@ -1,0 +1,7 @@
+# Diagrams source
+*.drawio.bkp
+*.vsdx~
+
+# Credentials
+*.env
+credentials/
