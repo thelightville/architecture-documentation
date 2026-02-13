@@ -27,6 +27,9 @@ Complete architectural documentation covering:
 - **PROPOSED-STORAGE-ARCHITECTURE-2026-01-08.md**: Storage architecture proposal
 - **SAFE-MIGRATION-ARCHITECTURE-V2.md**: Safe migration architecture patterns
 
+### Storage Operations
+- **storage-cleanup-2026-02-13.md**: SAS RAID storage cleanup report (354GB recovered)
+
 ## 🔗 Infrastructure Components
 
 - **Proxmox Cluster**: 3-node HA cluster (pve, pve2, pve3)
