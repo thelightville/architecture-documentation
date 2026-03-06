@@ -1,3 +1,5 @@
+> **⚠️ DEPRECATED** — This document describes a cPanel/manualmx fix from Nov 2025. The email system was fully rebuilt on CT201/Mailcow in March 2026. See **[../guides/EMAIL-INFRASTRUCTURE-2026.md](../guides/EMAIL-INFRASTRUCTURE-2026.md)** for the current definitive guide.
+
 # Email Routing Issue - Root Cause and Fix
 
 **Date:** November 27, 2025  

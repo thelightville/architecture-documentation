@@ -1,3 +1,5 @@
+> **⚠️ DEPRECATED** — This document describes the old CT101/cPanel/Exim architecture (Nov 2025). The email system was fully rebuilt on CT201/Mailcow in March 2026. See **[EMAIL-INFRASTRUCTURE-2026.md](EMAIL-INFRASTRUCTURE-2026.md)** for the current definitive guide.
+
 # Email Architecture Clarification & Expert Recommendations
 **Date:** November 26, 2025  
 **Server:** CT101 (hosting.thelightville.xyz)
